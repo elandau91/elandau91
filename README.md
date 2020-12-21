@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eli Landau</h1>
-<h3 align="center">I'm a former travel industry expert and current full stack web developer with a love of learning.</h3>
+<h3 align="center">I'm a former travel industry expert, full stack web developer and current Solutions Engineer at Datadog with a love of learning.</h3>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regulary write articles on [https://medium.com/@eli.b.landau](https://medium.com/@eli.b.landau)
 
