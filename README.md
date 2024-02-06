@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eli Landau</h1>
-<h3 align="center">I'm a former travel industry expert, full stack web developer and current Solutions Engineer at Datadog.</h3>
+<h3 align="center">I'm a former travel industry expert, full stack web developer and current Sales Engineer at Datadog.</h3>
 
 - 🌱 I’m currently learning **Redux & Python**
 
